@@ -1167,6 +1167,11 @@ section {
 	}
 }
 
+.infoo{
+  margin-top:90px ; padding: 20px;
+}
+
+
 /*	BASIC STYLING OF THE LIST ITEMS
 		FOR DEMO PURPOSES. MOST PROPERTIES
 		SHOULD BE KEPT AS IS BUT PROBABLY
